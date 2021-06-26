@@ -4,6 +4,18 @@
 
 [1]: https://pypi.org/project/google-cloud-vision/#history
 
+## [2.4.0](https://www.github.com/googleapis/python-vision/compare/v2.3.2...v2.4.0) (2021-06-26)
+
+
+### Features
+
+* add always_use_jwt_access ([#166](https://www.github.com/googleapis/python-vision/issues/166)) ([bff7763](https://www.github.com/googleapis/python-vision/commit/bff7763c586284eab96b3f43573006273e2e71ee))
+
+
+### Documentation
+
+* omit mention of Python 2.7 in 'CONTRIBUTING.rst' ([#1127](https://www.github.com/googleapis/python-vision/issues/1127)) ([#161](https://www.github.com/googleapis/python-vision/issues/161)) ([78740ad](https://www.github.com/googleapis/python-vision/commit/78740ade95bf3eb7a2c613383e6ed602dfd1f1db)), closes [#1126](https://www.github.com/googleapis/python-vision/issues/1126)
+
 ### [2.3.2](https://www.github.com/googleapis/python-vision/compare/v2.3.1...v2.3.2) (2021-06-02)
 
 
